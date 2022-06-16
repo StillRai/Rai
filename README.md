@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rai, an aspiring front-end developer.
 - 👀 I have learned some HTML, CSS and JavaScript.
-- 🌱 I am currently learning Python and SQL.
+- 🌱 I am currently learning Python and SQL. 
 
 ☁️ Connect with me on <a href="https://www.linkedin.com/in/rachel-gordon-634120233/" rel="nofollow">LinkedIn</a> or by <a href="mailto:racheel.d.gordon@protonmail.com">email</a>.
 <!---
