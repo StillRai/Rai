@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rai, an aspiring front-end developer.
+- 👋 Hi, I’m @Rai, an aspiring fullstack developer.
 - 👀 I have learned some HTML, CSS, JavaScript, React, Python and SQL.
 - 🌱 I would love to learn to code games and apps.
 
